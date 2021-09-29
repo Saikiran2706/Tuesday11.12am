@@ -54,6 +54,11 @@ this is new line
 to check the rebase cmd
 
 
+<<<<<<< HEAD
 5000000 line checking ti update
 
 >>>>>>> 92508f38f6ec7969ed749d104e8f10b99ec9fa59
+=======
+
+100000 new money time
+>>>>>>> 0f3fbd60b065fd5bd4b1bc2bd692ffa244802588
