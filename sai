@@ -35,4 +35,12 @@ This is a new line to  check the rebase cmd
 
 125 line at 6
 
+<<<<<<< HEAD
 126 line 6
+=======
+126 line at 7
+________________
+127 line at 8
+____________________========================
+testing the rebase concept
+>>>>>>> b6c4b1abe891e1be2aecdd37c3153386e0429428
