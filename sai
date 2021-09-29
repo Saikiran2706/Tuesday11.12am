@@ -1,6 +1,30 @@
-Testing merge conflict
-checking the new rebase commands
-in master1 branch to check the conflict in the branch 1257
+vim file for test
+Once we install git , we need to initialize git using the command
+-> git init
+
+command to list the files
+-> ls
+ > ls-l ( to check the permissions and the files in the directory)
+ > ls -a ( to check the hidden files in the directory)
+
+To check the status of git
+ > git status
+
+To create a file in git
+ > touch filename ( touch abc)
+
+To create multiple files
+ > touch file1 file2 file3 ( have to enter the file names with a space )
+
+To enter the content in the file
+ >vim filename ( vim abc ) or cat >> filename (cat >> abc)
+ we can enter the content by clicking shift+i that moves to insert mode in git , once done with the completion of the content we can press esc :wq which saves and exits the file )
 
 
-New update in branch kiran
+HI
+New update
+today - 29-09-2021
+
+
+This is a new line to  check the rebase cmd
+29-09-2021
