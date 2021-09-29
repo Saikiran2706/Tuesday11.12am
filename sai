@@ -43,4 +43,13 @@ ________________
 127 line at 8
 ____________________========================
 testing the rebase concept
+<<<<<<< HEAD
 >>>>>>> b6c4b1abe891e1be2aecdd37c3153386e0429428
+=======
+
+
+
+45th line is updated
+this is new line
+to check the rebase cmd
+>>>>>>> 92508f38f6ec7969ed749d104e8f10b99ec9fa59
