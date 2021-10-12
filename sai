@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 New file added in the content
 
 vim file for test
+=======
+Temple , this is new line vim file for test 11.37 , tuesday 12-10-21
+>>>>>>> 2c9e84f658c5de7f658df34046d5d54d56a1d13a
 Once we install git , we need to initialize git using the command
 -> git init
 
